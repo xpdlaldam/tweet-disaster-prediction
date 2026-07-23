@@ -11,7 +11,7 @@ downloaded_model/
 .DS_Store
 .agents/
 .claude/
-requirements.txt
+# requirements.txt
 tornado_img.jpeg
 
 # C extensions
